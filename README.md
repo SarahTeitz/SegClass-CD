@@ -3,7 +3,7 @@
 Segmentation-Guided Region-Based Classification of Crohn’s Disease Imaging Findings from Multi-Contrast MRE.
 This paper was accepted as an oral presentation in the MICCAI adjacent workshop CLIP (Clinical image-based procedures).
 
-**Overview: **
+**Overview:**
 
 This is a classification model for 8 ileal findings for Crohn's disease, based on automatic segmentation, eliminating the need for manual ROI extraction. The model uses Coronal T1 and T2 images, together with coronal T2 segmentations for the ileum (T1 segmentations are lacking in original dataset).
 
