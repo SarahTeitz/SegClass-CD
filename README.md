@@ -17,6 +17,7 @@ Depending on the number of masks you have in your original data, you  might want
 **Requirements:**
 
 python >= 3.12
+
 nnunetv2 >= 2.6
 
 **Citetation:**
